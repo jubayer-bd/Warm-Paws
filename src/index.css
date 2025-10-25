@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: light --default;
+}
+@plugin "daisyui/theme" {
+  name: "light";
+  default: true;
+
+  /* 🎨 Warm Cozy Winter Theme Colors */
+  --color-primary: #f57c00; /* Warm orange */
+  --color-secondary: #ffca28; /* Soft gold */
+  --color-accent: #81c784; /* Calm green */
+  --color-neutral: #fafafa; /* Neutral background */
+  --color-base-100: #ffffff; /* Page background */
+  --color-info: #29b6f6; /* Sky blue info */
+  --color-success: #66bb6a; /* Fresh green */
+  --color-warning: #ffa726; /* Warm yellow */
+  --color-error: #e53935; /* Red alert */
+}
+body {
+  font-family: "Inter", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Quicksand", sans-serif;
+}

@@ -1,0 +1,29 @@
+/* src/assets/loader.css */
+
+@keyframes pawBounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes fadeInOut {
+  0%,
+  100% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.paw-bounce {
+  animation: pawBounce 1.2s ease-in-out infinite;
+}
+
+.fade-text {
+  animation: fadeInOut 2s ease-in-out infinite;
+}

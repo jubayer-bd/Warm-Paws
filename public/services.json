@@ -1,0 +1,122 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting & Customization",
+    "providerName": "PawCouture Studio",
+    "providerEmail": "info@pawcouture.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options tailored to keep your dog comfortable and stylish in the coldest weather. Includes a measurement session and material consultation.",
+    "image": "https://static.wixstatic.com/media/2dc538_af0726a9cd264df4811cfaead4c60052~mv2.jpg/v1/fit/w_2500,h_1330,al_c/2dc538_af0726a9cd264df4811cfaead4c60052~mv2.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Moisturizing Paw Treatment",
+    "providerName": "CozyPaws Grooming & Spa",
+    "providerEmail": "hello@cozypaws.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming service featuring a moisturizing paw balm, deep conditioning for winter-dry fur, and use of winter-safe, hypoallergenic shampoos.",
+    "image": "https://cdn.shopify.com/s/files/1/0597/1551/8645/files/paw_balm_4_2048x2048.png?v=1734073468",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Pet Bed & Habitat Setup",
+    "providerName": "WarmNest Home Solutions",
+    "providerEmail": "support@warmnest.com",
+    "price": 60,
+    "rating": 4.7,
+    "slotsAvailable": 2,
+    "description": "Installation and setup of energy-efficient heated pet beds and indoor/outdoor habitat modifications to ensure optimal warmth for your pet.",
+    "image": "https://m.media-amazon.com/images/I/61tfS8jFepL.jpg",
+    "category": "Home Comfort"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Senior Pet Winter Mobility Assistance",
+    "providerName": "GoldenYears PetCare",
+    "providerEmail": "care@goldenyears.com",
+    "price": 45,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Specialized physiotherapy and joint support for older pets during winter, including gentle exercises and nutritional advice for mobility.",
+    "image": "https://images.squarespace-cdn.com/content/v1/5b9d7475ee17598034564bb6/1593378360071-I2HJS7L1GXLJ9EN2ESRL/image-asset.jpeg",
+    "category": "Health & Wellness"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Winter Pet Nutrition Consultation",
+    "providerName": "NutriPaw Experts",
+    "providerEmail": "consult@nutripaw.com",
+    "price": 35,
+    "rating": 4.6,
+    "slotsAvailable": 3,
+    "description": "Personalized dietary plans and supplement recommendations to boost your pet's immune system and energy levels during the colder months.",
+    "image": "https://www.dogseechew.in/storage/editor_638715803cad7-dog-winter-care.webp",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Emergency Snow Day Pet Sitting",
+    "providerName": "Reliable Pet Sitters",
+    "providerEmail": "bookings@reliablepetsitters.com",
+    "price": 50,
+    "rating": 4.8,
+    "slotsAvailable": 6,
+    "description": "On-demand pet sitting services for unexpected heavy snowfalls, ensuring your pet is cared for and exercised when you can't be there.",
+    "image": "https://thevets.com/wp-content/uploads/2025/01/cat-with-hat-during-winter.png",
+    "category": "Emergency Care"
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Winter Walking & Safety Gear Rental",
+    "providerName": "FrostyPaw Adventures",
+    "providerEmail": "walks@frostypaw.com",
+    "price": 20,
+    "rating": 4.5,
+    "slotsAvailable": 8,
+    "description": "Guided winter walks with safety gear including reflective jackets, insulated leashes, and paw protectors for your furry friend.",
+    "image": "https://www.whistlerolympicpark.com/sites/default/files/styles/scale_1440/public/2023-11/Justa-Jeskova-JJ086281_1_0.jpg?itok=389-E4yx",
+    "category": "Outdoor Activity"
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Thermal Pet Blanket & Bed Upgrade",
+    "providerName": "SnugglePet Supplies",
+    "providerEmail": "contact@snugglepet.com",
+    "price": 40,
+    "rating": 4.8,
+    "slotsAvailable": 5,
+    "description": "Upgrade your pet’s bedding with thermal-insulated blankets and memory foam pads for maximum comfort during chilly nights.",
+    "image": "https://m.media-amazon.com/images/I/6118nIBSnGL.jpg",
+    "category": "Home Comfort"
+  },
+  {
+    "serviceId": 9,
+    "serviceName": "Pet Winter Health Check-up Package",
+    "providerName": "VetCare Clinic",
+    "providerEmail": "appointments@vetcare.com",
+    "price": 55,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Comprehensive winter health screening including skin, joint, and respiratory checks to keep your pet healthy through the season.",
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2025/08/BEST-DOG-DNA-TESTS-8328-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp",
+    "category": "Health & Wellness"
+  },
+  {
+    "serviceId": 10,
+    "serviceName": "Pet Photography – Winter Wonderland Session",
+    "providerName": "FurFrame Studios",
+    "providerEmail": "studio@furframe.com",
+    "price": 70,
+    "rating": 4.7,
+    "slotsAvailable": 2,
+    "description": "Capture magical winter portraits of your pets with professional outdoor photography sessions featuring snowy backgrounds and cozy props.",
+    "image": "https://images.squarespace-cdn.com/content/v1/63da86b4ad649a7c84b6082d/1677511242948-UT5AI49HQSW2AUM0A80U/White+husky+standing+in+the+snow+in+Snohomish",
+    "category": "Photography"
+  }
+]
