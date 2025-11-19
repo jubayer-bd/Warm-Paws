@@ -8,7 +8,7 @@
   [![Live Site](https://img.shields.io/badge/Live_Site-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://pets-care-paws.netlify.app/)
   [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/yourusername/warmpaws/blob/main/LICENSE)
 
-  ![Project Screenshot](https://via.placeholder.com/1000x500?text=WarmPaws+Project+Screenshot)
+   <img src="./screenshot-20251119125836.png">
 
 </div>
 
